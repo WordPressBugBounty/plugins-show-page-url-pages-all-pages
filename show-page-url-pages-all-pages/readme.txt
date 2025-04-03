@@ -1,26 +1,31 @@
 === Show Page URL ===
 
 Contributors: Smarter Websites
-Plugin Name: Show Page URL
+Plugin Name: Show Page URL Column
 Author:  Smarter Websites
 Requires at least: 3.3
-Tested up to: 6.2
-Version: 1.4
+Tested up to: 6.7.2
+Version: 1.3
 
 == Description ==
 
-This plugin will show the page URL on Pages in WP Dashboard > All Pages
+This plugin will show the URL on Pages and Posts in WP Dashboard > All Pages/Posts
 
 This will help you with SEO Keyword Page Mapping.
 
-If you go to 'Pages' > 'All Pages', you will see a URL column showing the actual URL of 
-the page.
+If you go to 'Pages' > 'All Pages', you will see a URL column showing the actual URL of the page.
 
 This helps with SEO. It can be done via a script in the functions.php file BUT every time you do a WP version update it overwrites the script.
 
 Add this lightweight plugin and page mapping is a breeze.
 
 == Changelog ==
+
+v 1.3 - Apr 3, 2025
+
+* Added column for Posts
+
+* New header image
 
 v 1.2 - Mar 15, 2019
 
